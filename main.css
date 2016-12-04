@@ -1,0 +1,73 @@
+main {
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+	width: 80%;
+	background-color: #4285F4;
+	border-radius: 10px;
+	border: 1px solid #000;
+	overflow: hidden;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+section {
+	clear: both;
+}
+
+.forty {
+	float: left;
+	width: 40%;
+	background-color: #fff;
+	border: 1px solid #000;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.twenty {
+	float: left;
+	width: 30%;
+	background-color: #fff;
+	border: 1px solid #000;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.image {
+	float: left;
+	background-color: #fff;
+	border: 1px solid #000;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+/* Fonts */
+h1 {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 10px;
+}
+
+h2, h3 , h4 {
+	font-family: 'Montserrat', sans-serif;
+	margin: .1em;
+}
+
+p {
+	font-family: 'Bitter', serif;
+	margin: .1em;
+
+}
+
